@@ -22,5 +22,4 @@ go build -o notely && ./notely
 
 You do *not* need to set up a database or any interactivity on the webpage yet. Instructions for that will come later in the course!
 
-![code coverage badge](https://github.com/G483/learn-cicd-starter/badge.svg)
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![code coverage badge](https://github.com/G483/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
